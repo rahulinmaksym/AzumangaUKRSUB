@@ -329,123 +329,121 @@ Dialogue: 0,0:15:29.45,0:15:33.01,Default,,0,0,0,,Скільки ти проси
 Dialogue: 0,0:15:34.75,0:15:36.33,Default,,0,0,0,,Ну-ну.
 Dialogue: 0,0:15:36.79,0:15:38.15,Default,,0,0,0,,Що таке?
 Dialogue: 0,0:15:38.15,0:15:38.70,Default,,0,0,0,,Гей.
+Dialogue: 0,0:15:40.29,0:15:41.50,Default,,0,0,0,,Можна тебе про дещо запитати?
+Dialogue: 0,0:15:42.88,0:15:44.63,Default,,0,0,0,,Чого так формально?
+Dialogue: 0,0:15:44.63,0:15:46.25,Default,,0,0,0,,Я знаю, що Миколая не існує, але...
+Dialogue: 0,0:15:46.71,0:15:47.55,Default,,0,0,0,,Угу?
+Dialogue: 0,0:15:50.80,0:15:52.26,Default,,0,0,0,,Але ж полярні олені існують?
+Dialogue: 0,0:15:58.39,0:16:00.56,Default,,0,0,0,,Ця дівчинка вірить в полярних оленів!
+Dialogue: 0,0:16:00.98,0:16:02.14,Default,,0,0,0,,Що?!
+Dialogue: 0,0:16:06.94,0:16:08.57,Default,,0,0,0,,Полярні олені існують.
+Dialogue: 0,0:16:10.28,0:16:13.86,Default,,0,0,0,,Брешеш! Нема летючих оленів!
+Dialogue: 0,0:16:13.86,0:16:16.91,Default,,0,0,0,,Я знаю, що ти намагаєшся зробити з мене дурну! Але я не поведуся!
+Dialogue: 0,0:16:17.74,0:16:19.62,Default,,0,0,0,,Уу, вона серйозно.
+Dialogue: 0,0:16:21.50,0:16:24.37,Default,,0,0,0,,Гей, гей, полярних оленів ж не буває, правда?
+Dialogue: 0,0:16:25.00,0:16:25.58,Default,,0,0,0,,Не правда.
+Dialogue: 0,0:16:25.58,0:16:26.08,Default,,0,0,0,,Що?
+Dialogue: 0,0:16:27.71,0:16:30.17,Default,,0,0,0,,Гей, Осака, а полярні олені існують?
+Dialogue: 0,0:16:30.17,0:16:31.42,Default,,0,0,0,,Та, бувають.
+Dialogue: 0,0:16:31.42,0:16:32.13,Default,,0,0,0,,Серйозно?
+Dialogue: 0,0:16:33.05,0:16:34.55,Default,,0,0,0,,Так, полярні олені правда існують.
+Dialogue: 0,0:16:35.22,0:16:38.51,Default,,0,0,0,,Вони не літають, але виглядають ось так.
+Dialogue: 0,0:16:39.01,0:16:41.23,Default,,0,0,0,,Олені та полярні олені - різні істоти.
+Dialogue: 0,0:16:46.31,0:16:47.86,Default,,0,0,0,,Да ну нахєр!
+Dialogue: 0,0:16:47.86,0:16:50.73,Default,,0,0,0,,Я не дурна! Я не дурна, добре?!
+Dialogue: 0,0:16:50.73,0:16:53.53,Note,,0,0,0,,{\fs67.5\fnFormal 436 BT\b1\bord0\c&H2F2C2B&\pos(349.888,24.75)}Новорічні листівки
+Dialogue: 0,0:16:51.44,0:16:53.53,Default,,0,0,0,,Я писатиму новорічні листівки.
+Dialogue: 0,0:16:53.90,0:16:55.49,Default,,0,0,0,,Ей, Томо.
+Dialogue: 0,0:16:56.66,0:16:59.58,Default,,0,0,0,,Чий наступний рік за китайським календарем?
+Dialogue: 0,0:17:00.08,0:17:01.62,Default,,0,0,0,,Нуу...
 
-#брейк
-
-Dialogue: 0,0:15:40.29,0:15:41.50,Default,,0,0,0,,Could I ask you something?
-Dialogue: 0,0:15:42.88,0:15:44.63,Default,,0,0,0,,What are you being so formal about?
-Dialogue: 0,0:15:44.63,0:15:46.25,Default,,0,0,0,,I know that Santa doesn't exist, but...
-Dialogue: 0,0:15:46.71,0:15:47.55,Default,,0,0,0,,Yeah?
-Dialogue: 0,0:15:50.80,0:15:52.26,Default,,0,0,0,,Reindeer exist, don't they?
-Dialogue: 0,0:15:58.39,0:16:00.56,Default,,0,0,0,,This girl believes in reindeer!
-Dialogue: 0,0:16:00.98,0:16:02.14,Default,,0,0,0,,What?!
-Dialogue: 0,0:16:06.94,0:16:08.57,Default,,0,0,0,,Reindeer exist.
-Dialogue: 0,0:16:10.28,0:16:13.86,Default,,0,0,0,,You're lying! Flying deer don't exist!
-Dialogue: 0,0:16:13.86,0:16:16.91,Default,,0,0,0,,I know you're trying to trick me! I'm not falling for it!
-Dialogue: 0,0:16:17.74,0:16:19.62,Default,,0,0,0,,Whoa, she's serious.
-Dialogue: 0,0:16:21.50,0:16:24.37,Default,,0,0,0,,Hey, hey, reindeer don't exist in this world, do they?
-Dialogue: 0,0:16:25.00,0:16:25.58,Default,,0,0,0,,They do.
-Dialogue: 0,0:16:25.58,0:16:26.08,Default,,0,0,0,,What?
-Dialogue: 0,0:16:27.71,0:16:30.17,Default,,0,0,0,,Hey, Osaka, do reindeer exist?
-Dialogue: 0,0:16:30.17,0:16:31.42,Default,,0,0,0,,Yeah, they do.
-Dialogue: 0,0:16:31.42,0:16:32.13,Default,,0,0,0,,For real?
-Dialogue: 0,0:16:33.05,0:16:34.55,Default,,0,0,0,,Reindeer really exist.
-Dialogue: 0,0:16:35.22,0:16:38.51,Default,,0,0,0,,They can't fly, but they look like this.
-Dialogue: 0,0:16:39.01,0:16:41.23,Default,,0,0,0,,Deer and reindeer are two different things.
-Dialogue: 0,0:16:46.31,0:16:47.86,Default,,0,0,0,,What the heck?!
-Dialogue: 0,0:16:47.86,0:16:50.73,Default,,0,0,0,,I'm not stupid! I'm not stupid, okay?!
-Dialogue: 0,0:16:50.73,0:16:53.53,Note,,0,0,0,,{\fs67.5\fnFormal 436 BT\b1\bord0\c&H2F2C2B&\pos(349.888,24.75)}New Year's Cards
-Dialogue: 0,0:16:51.44,0:16:53.53,Default,,0,0,0,,I gotta write New Year's cards.
-Dialogue: 0,0:16:53.90,0:16:55.49,Default,,0,0,0,,Say, Tomo-chan.
-Dialogue: 0,0:16:56.66,0:16:59.58,Default,,0,0,0,,What year of the zodiac is it next year again?
-Dialogue: 0,0:17:00.08,0:17:01.62,Default,,0,0,0,,Let me think...
-Dialogue: 0,0:17:02.16,0:17:06.08,Default,,0,0,0,,Rat, ox, tiger, rabbit, dragon, adder...
-Dialogue: 0,0:17:07.38,0:17:10.00,Default,,0,0,0,,What's this year's zodiac again?
-Dialogue: 0,0:17:11.26,0:17:12.26,Default,,0,0,0,,No idea.
-Dialogue: 0,0:17:13.05,0:17:16.97,Default,,0,0,0,,Rat, ox, tiger, rabbit, dragon, adder...
-Dialogue: 0,0:17:20.26,0:17:24.31,Default,,0,0,0,,Rat, ox, tiger, rabbit, dragon, adder...
-Dialogue: 0,0:17:25.23,0:17:28.36,Default,,0,0,0,,I don't know what comes after dragon and adder, though.
-Dialogue: 0,0:17:29.06,0:17:30.19,Default,,0,0,0,,Me neither.
-Dialogue: 0,0:17:31.19,0:17:35.32,Default,,0,0,0,,Rat, ox, tiger, rabbit, dragon, adder...
-Dialogue: 0,0:17:38.41,0:17:39.78,Default,,0,0,0,,Oh, I just remembered.
-Dialogue: 0,0:17:39.78,0:17:41.87,Note,,0,0,0,,{\b1\bord0\fnFormal 436 BT\fs90\c&H2E2B2A&\pos(1059.775,42.75)}Dragon
-Dialogue: 0,0:17:40.08,0:17:41.33,Default,,0,0,0,,This year is the dragon.
-Dialogue: 0,0:17:41.33,0:17:41.87,Default,,0,0,0,,The dragon.
-Dialogue: 0,0:17:42.62,0:17:44.79,Default,,0,0,0,,Then it'll be the adder. Adder.
-Dialogue: 0,0:17:46.04,0:17:47.25,Default,,0,0,0,,Adder.
-Dialogue: 0,0:17:48.33,0:17:49.75,Default,,0,0,0,,Adder?
-Dialogue: 0,0:17:50.46,0:17:52.30,Default,,0,0,0,,Adder...
-Dialogue: 0,0:17:57.84,0:18:00.60,EpisodeTitle,,0,0,0,,{\fad(285,0)}Christmas Party
-Dialogue: 0,0:17:58.01,0:18:00.60,Default,,0,0,0,,Okay, I'm going to hand out report cards!
-Dialogue: 0,0:18:01.14,0:18:02.43,Default,,0,0,0,,Well, let's start with Chiyo-chan.
-Dialogue: 0,0:18:03.10,0:18:03.68,Default,,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:18:04.14,0:18:06.94,Default,,0,0,0,,Chiyo-chan, you're at the top of the entire second year class.
-Dialogue: 0,0:18:08.90,0:18:10.52,Default,,0,0,0,,Well, not that this kind of studying
-Dialogue: 0,0:18:10.52,0:18:13.32,Default,,0,0,0,,will be very useful once you're out in the real world.
-Dialogue: 0,0:18:14.94,0:18:16.11,Default,,0,0,0,,Next, Tomo-chan.
-Dialogue: 0,0:18:17.82,0:18:19.95,Default,,0,0,0,,You need to work a little harder.
-Dialogue: 0,0:18:19.95,0:18:20.70,Default,,0,0,0,,What?
-Dialogue: 0,0:18:20.70,0:18:23.91,Default,,0,0,0,,But it's not going to be useful out in the real world, right?
-Dialogue: 0,0:18:23.91,0:18:24.79,Default,,0,0,0,,You idiot!
-Dialogue: 0,0:18:24.79,0:18:26.75,Default,,0,0,0,,That's what scholastics are about!
-Dialogue: 0,0:18:27.41,0:18:29.79,Default,,0,0,0,,If you want wisdom that's useful in life,
-Dialogue: 0,0:18:29.79,0:18:32.17,Default,,0,0,0,,go read grandma's fountain of wisdom or something.
-Dialogue: 0,0:18:35.13,0:18:39.01,Note,,0,0,0,,{\fad(0,500)}[ Booth: Merry Christmas ]
-Dialogue: 0,0:18:37.34,0:18:38.76,Default,,0,0,0,,I'm so sorry!
-Dialogue: 0,0:18:39.30,0:18:41.30,Default,,0,0,0,,Thank you for waiting for me!
-Dialogue: 0,0:18:41.80,0:18:44.10,Default,,0,0,0,,All right! Merry Christmas!
-Dialogue: 0,0:18:44.10,0:18:45.47,Default,,0,0,0,,We're going to party today!
-Dialogue: 0,0:18:45.77,0:18:47.27,Default,,0,0,0,,Today's agenda!
-Dialogue: 0,0:18:47.56,0:18:51.65,Default,,0,0,0,,We'll hang out for a while, go karaoke, have cake at Chiyo-chan's,
-Dialogue: 0,0:18:51.65,0:18:53.11,Default,,0,0,0,,and have a slumber party!
-Dialogue: 0,0:18:53.57,0:18:55.88,Default,,0,0,0,,Okay, let's go!
-Dialogue: 0,0:18:59.65,0:19:03.62,Default,,0,0,0,,Ya know, I think of this every year when Christmas comes around.
-Dialogue: 0,0:19:04.20,0:19:04.99,Default,,0,0,0,,Yes?
-Dialogue: 0,0:19:05.74,0:19:09.08,Default,,0,0,0,,There's that red nosed reindeer, ya know?
-Dialogue: 0,0:19:09.73,0:19:12.08,Default,,0,0,0,,But that's just terrible.
-Dialogue: 0,0:19:12.83,0:19:16.76,Default,,0,0,0,,His shiny nose is useful for dark roads at night...
-Dialogue: 0,0:19:17.05,0:19:18.72,Default,,0,0,0,,But that's no consolation.
-Dialogue: 0,0:19:19.38,0:19:22.47,Default,,0,0,0,,If ya told a bald person that he was useful on the road at night,
-Dialogue: 0,0:19:22.47,0:19:24.22,Default,,0,0,0,,you'd get clobbered.
-Dialogue: 0,0:19:24.64,0:19:27.52,Default,,0,0,0,,Santa sure says some mean things, ya know?
-Dialogue: 0,0:19:32.35,0:19:35.27,Default,,0,0,0,,But the reindeer's got its own issues too.
-Dialogue: 0,0:19:35.27,0:19:35.94,Default,,0,0,0,,Really?
-Dialogue: 0,0:19:35.94,0:19:39.19,Default,,0,0,0,,What kinda nose does he have that illuminates the road at night?
-Dialogue: 0,0:19:39.19,0:19:40.93,Default,,0,0,0,,How'd he get a nose like that?
-Dialogue: 0,0:19:41.41,0:19:44.07,Default,,0,0,0,,It just might be that he's not a reindeer at all.
-Dialogue: 0,0:19:45.46,0:19:47.91,Default,,0,0,0,,He's probably somethin' else...
-Dialogue: 0,0:19:49.07,0:19:51.71,Note,,0,0,0,,[ Karaoke ]
-Dialogue: 0,0:19:49.07,0:19:54.58,Default,,0,0,0,,{\i1}Yes, right here, time pavement.
-Dialogue: 0,0:19:57.88,0:19:59.84,Note,,0,0,0,,{\fax-0.1\bord0\frz4.516\pos(926.292,677.25)}Your score on that song was...
-Dialogue: 0,0:20:02.18,0:20:04.09,Default,,0,0,0,,I got sixty-five points.
-Dialogue: 0,0:20:04.51,0:20:06.30,Default,,0,0,0,,I think you did pretty well.
-Dialogue: 0,0:20:06.30,0:20:09.02,Default,,0,0,0,,You got a better score than you did on your test.
-Dialogue: 0,0:20:09.02,0:20:11.14,Default,,0,0,0,,Oh, that's right.
-Dialogue: 0,0:20:12.85,0:20:18.61,Default,,0,0,0,,{\i1}Maybe I'll quit being all alone
-Dialogue: 0,0:20:19.99,0:20:26.83,Default,,0,0,0,,{\i1}My heart is like a little girl's, and I parachute
-Dialogue: 0,0:20:27.08,0:20:32.08,Default,,0,0,0,,{\i1}I realized when I was waiting in the park
-Dialogue: 0,0:20:32.66,0:20:37.88,Default,,0,0,0,,{\i1}Things like making side trips and taking a longer way home
-Dialogue: 0,0:20:37.88,0:20:42.30,Default,,0,0,0,,{\i1}I'd want to if I were with everyone
-Dialogue: 0,0:20:48.01,0:20:50.18,Default,,0,0,0,,Miss Sakaki, you're amazing!
-Dialogue: 0,0:20:50.18,0:20:52.39,Default,,0,0,0,,You're really good at this!
-Dialogue: 0,0:20:52.77,0:20:54.64,Default,,0,0,0,,Yeah, talk 'bout a surprise.
-Dialogue: 0,0:20:56.15,0:20:57.90,Default,,0,0,0,,Then, I guess I'll do one too.
-Dialogue: 0,0:20:57.90,0:20:58.94,Default,,0,0,0,,Oh, you're gonna do it?
-Dialogue: 0,0:21:08.78,0:21:12.66,Default,,0,0,0,,{\i1}Hop, hop, hop, hopping around, hello
-Dialogue: 0,0:21:14.79,0:21:20.71,Default,,0,0,0,,{\i1}Ding-dong, ding-dong, the bells ring on that hill, on this hill
-Dialogue: 0,0:21:21.46,0:21:23.17,Default,,0,0,0,,Man, we sure sang a lot!
-Dialogue: 0,0:21:23.76,0:21:27.14,Default,,0,0,0,,But Miss Yomi's singing sure was something!
-Dialogue: 0,0:21:27.14,0:21:28.64,Default,,0,0,0,,That was another big surprise.
-Dialogue: 0,0:21:29.35,0:21:32.27,Default,,0,0,0,,This girl's good at school and sports,
-Dialogue: 0,0:21:32.27,0:21:34.43,Default,,0,0,0,,but singing is the one thing she sucks at.
-Dialogue: 0,0:21:34.43,0:21:35.48,Default,,0,0,0,,Who cares?!
-Dialogue: 0,0:21:35.48,0:21:37.19,Default,,0,0,0,,Singing is about putting your heart into it!
-Dialogue: 0,0:21:37.73,0:21:39.11,Default,,0,0,0,,Heart, huh?
-Dialogue: 0,0:21:45.57,0:21:46.36,Default,,0,0,0,,It's snow.
-Dialogue: 0,0:21:47.20,0:21:51.03,Default,,0,0,0,,Snow on Christmas! How romantic!
-Dialogue: 0,0:21:53.45,0:21:54.00,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:21:55.21,0:21:58.00,Default,,0,0,0,,It's a white Christmas.
-Dialogue: 0,0:21:58.71,0:22:01.29,Default,,0,0,0,,What are you doing here?!
+Dialogue: 0,0:17:02.16,0:17:06.08,Default,,0,0,0,,Пацюк, бик, тигр, кролик, дракон, змія...
+Dialogue: 0,0:17:07.38,0:17:10.00,Default,,0,0,0,,Яка тварюка цього року?
+Dialogue: 0,0:17:11.26,0:17:12.26,Default,,0,0,0,,Гадки не маю.
+Dialogue: 0,0:17:13.05,0:17:16.97,Default,,0,0,0,,Пацюк, бик, тигр, кролик, дракон, змія...
+Dialogue: 0,0:17:20.26,0:17:24.31,Default,,0,0,0,,Пацюк, бик, тигр, кролик, дракон, змія...
+Dialogue: 0,0:17:25.23,0:17:28.36,Default,,0,0,0,,А я не знаю що йде після дракону та змії.
+Dialogue: 0,0:17:29.06,0:17:30.19,Default,,0,0,0,,Я також.
+Dialogue: 0,0:17:31.19,0:17:35.32,Default,,0,0,0,,Пацюк, бик, тигр, кролик, дракон, змія...
+Dialogue: 0,0:17:38.41,0:17:39.78,Default,,0,0,0,,А! Згадала.
+Dialogue: 0,0:17:39.78,0:17:41.87,Note,,0,0,0,,{\b1\bord0\fnFormal 436 BT\fs90\c&H2E2B2A&\pos(1059.775,42.75)}Дракон
+Dialogue: 0,0:17:40.08,0:17:41.33,Default,,0,0,0,,Зараз рік дракону.
+Dialogue: 0,0:17:41.33,0:17:41.87,Default,,0,0,0,,Дракону.
+Dialogue: 0,0:17:42.62,0:17:44.79,Default,,0,0,0,,Значить буде змія. Змія.
+Dialogue: 0,0:17:46.04,0:17:47.25,Default,,0,0,0,,Змія.
+Dialogue: 0,0:17:48.33,0:17:49.75,Default,,0,0,0,,Змія?
+Dialogue: 0,0:17:50.46,0:17:52.30,Default,,0,0,0,,Змія...
+Dialogue: 0,0:17:57.84,0:18:00.60,EpisodeTitle,,0,0,0,,{\fad(285,0)}Різдвяна вечірка
+Dialogue: 0,0:17:58.01,0:18:00.60,Default,,0,0,0,,Добре, роздаю результати!
+Dialogue: 0,0:18:01.14,0:18:02.43,Default,,0,0,0,,Почнемо з Чійо.
+Dialogue: 0,0:18:03.10,0:18:03.68,Default,,0,0,0,,Так.
+Dialogue: 0,0:18:04.14,0:18:06.94,Default,,0,0,0,,Чійо, ти маєш найвищий бал у другому році.
+Dialogue: 0,0:18:08.90,0:18:10.52,Default,,0,0,0,,Ну, але навряд твоя освіта
+Dialogue: 0,0:18:10.52,0:18:13.32,Default,,0,0,0,,допоможе тобі у реальному світі.
+Dialogue: 0,0:18:14.94,0:18:16.11,Default,,0,0,0,,Далі, Томо.
+Dialogue: 0,0:18:17.82,0:18:19.95,Default,,0,0,0,,Треба ліпше старатися.
+Dialogue: 0,0:18:19.95,0:18:20.70,Default,,0,0,0,,Е?
+Dialogue: 0,0:18:20.70,0:18:23.91,Default,,0,0,0,,Але освіта не допоможе мені у реальному світі, правильно?
+Dialogue: 0,0:18:23.91,0:18:24.79,Default,,0,0,0,,Дурепа!
+Dialogue: 0,0:18:24.79,0:18:26.75,Default,,0,0,0,,Вчаться не для цього!
+Dialogue: 0,0:18:27.41,0:18:29.79,Default,,0,0,0,,Якшо хочеш знати щось, що буде корисним у житті,
+Dialogue: 0,0:18:29.79,0:18:32.17,Default,,0,0,0,,йди повчися мудрості в своєї бабусі, чи шо.
+Dialogue: 0,0:18:35.13,0:18:39.01,Note,,0,0,0,,{\fad(0,500)}[ Кіоск: Меррі Крісмас ]
+Dialogue: 0,0:18:37.34,0:18:38.76,Default,,0,0,0,,Вибачте!
+Dialogue: 0,0:18:39.30,0:18:41.30,Default,,0,0,0,,Дякую, що почекали!
+Dialogue: 0,0:18:41.80,0:18:44.10,Default,,0,0,0,,Порядок! Меррі Крісмас!
+Dialogue: 0,0:18:44.10,0:18:45.47,Default,,0,0,0,,Йдемо на вечорниці сьогодні!
+Dialogue: 0,0:18:45.77,0:18:47.27,Default,,0,0,0,,Порядок денний на сьогодні!
+Dialogue: 0,0:18:47.56,0:18:51.65,Default,,0,0,0,,Трошки позависаємо, підемо в караоке, поїмо пиріг вдома в Чійо,
+Dialogue: 0,0:18:51.65,0:18:53.11,Default,,0,0,0,,а потім влаштуємо ночівлю!
+Dialogue: 0,0:18:53.57,0:18:55.88,Default,,0,0,0,,Добре, летс ґоу!
+Dialogue: 0,0:18:59.65,0:19:03.62,Default,,0,0,0,,Знаєш, думаю про то щороку, коли настає Різдво.
+Dialogue: 0,0:19:04.20,0:19:04.99,Default,,0,0,0,,Так?
+Dialogue: 0,0:19:05.74,0:19:09.08,Default,,0,0,0,,Бувають ж червононосі полярні олені, понімаєш?
+Dialogue: 0,0:19:09.73,0:19:12.08,Default,,0,0,0,,Але ж це ужасно.
+Dialogue: 0,0:19:12.83,0:19:16.76,Default,,0,0,0,,Їхній сяючий ніс згодиться для нічних подорожей...
+Dialogue: 0,0:19:17.05,0:19:18.72,Default,,0,0,0,,Але то вопше не смішно.
+Dialogue: 0,0:19:19.38,0:19:22.47,Default,,0,0,0,,Скажеш лисому, шо його голова корисна вночі, бо добре відбиває світло,
+Dialogue: 0,0:19:22.47,0:19:24.22,Default,,0,0,0,,то будеш битий.
+Dialogue: 0,0:19:24.64,0:19:27.52,Default,,0,0,0,,Миколай точно пріколіст, понімаєш?
+Dialogue: 0,0:19:32.35,0:19:35.27,Default,,0,0,0,,Але й полярні олені не без грішку.
+Dialogue: 0,0:19:35.27,0:19:35.94,Default,,0,0,0,,А?
+Dialogue: 0,0:19:35.94,0:19:39.19,Default,,0,0,0,,Шо це за ніс такий, шо освічує нічні дороги?
+Dialogue: 0,0:19:39.19,0:19:40.93,Default,,0,0,0,,Відки в них такий?
+Dialogue: 0,0:19:41.41,0:19:44.07,Default,,0,0,0,,Походу то через то, шо вони вопше не полярні олені.
+Dialogue: 0,0:19:45.46,0:19:47.91,Default,,0,0,0,,Можливо, вони - дещо інше...
+Dialogue: 0,0:19:49.07,0:19:51.71,Note,,0,0,0,,[ Караоке ]
+Dialogue: 0,0:19:49.07,0:19:54.58,Default,,0,0,0,,{\i1}Так, прямо тут, на цьому тротуарі.
+Dialogue: 0,0:19:57.88,0:19:59.84,Note,,0,0,0,,{\fax-0.1\bord0\frz4.516\pos(926.292,677.25)}ВИ НАБРАЛИ...
+Dialogue: 0,0:20:02.18,0:20:04.09,Default,,0,0,0,,65 балів!
+Dialogue: 0,0:20:04.51,0:20:06.30,Default,,0,0,0,,Непогано впоралася.
+Dialogue: 0,0:20:06.30,0:20:09.02,Default,,0,0,0,,Маєш більше балів, ніж на тесті.
+Dialogue: 0,0:20:09.02,0:20:11.14,Default,,0,0,0,,Ах... Точно...
+Dialogue: 0,0:20:12.85,0:20:18.61,Default,,0,0,0,,{\i1}Мабуть перестану бути самою
+Dialogue: 0,0:20:19.99,0:20:26.83,Default,,0,0,0,,{\i1}Моє серце, наче в дівки малої
+Dialogue: 0,0:20:27.08,0:20:32.08,Default,,0,0,0,,{\i1}Я зрозуміла, стоячи в парку з тобою,
+Dialogue: 0,0:20:32.66,0:20:37.88,Default,,0,0,0,,{\i1}Що я б пішла дорогою тою,
+Dialogue: 0,0:20:37.88,0:20:42.30,Default,,0,0,0,,{\i1}Якби ти пішов нею зі мною.
+Dialogue: 0,0:20:48.01,0:20:50.18,Default,,0,0,0,,Сакакі, ти чудова!
+Dialogue: 0,0:20:50.18,0:20:52.39,Default,,0,0,0,,Молодець!
+Dialogue: 0,0:20:52.77,0:20:54.64,Default,,0,0,0,,Ага, прям нежданчік.
+Dialogue: 0,0:20:56.15,0:20:57.90,Default,,0,0,0,,Ну, тоді я теж спробую.
+Dialogue: 0,0:20:57.90,0:20:58.94,Default,,0,0,0,,Реально?
+Dialogue: 0,0:21:08.78,0:21:12.66,Default,,0,0,0,,{\i1}Гоп,  гоп, гоп, чи-да гоп, привіт!
+Dialogue: 0,0:21:14.79,0:21:20.71,Default,,0,0,0,,{\i1}Дзвонь-дзвонь, дзвонь-дзвонь, дзвіночки дзвенять на холмі!
+Dialogue: 0,0:21:21.46,0:21:23.17,Default,,0,0,0,,Оой! Добре поспівали!
+Dialogue: 0,0:21:23.76,0:21:27.14,Default,,0,0,0,,Але спів Йомі - це щось!
+Dialogue: 0,0:21:27.14,0:21:28.64,Default,,0,0,0,,То був ще один нєжданчік.
+Dialogue: 0,0:21:29.35,0:21:32.27,Default,,0,0,0,,Ніби на уроках та фіз-ра нормально все,
+Dialogue: 0,0:21:32.27,0:21:34.43,Default,,0,0,0,,але спів - це точно не твоє.
+Dialogue: 0,0:21:34.43,0:21:35.48,Default,,0,0,0,,Ну то й що?!
+Dialogue: 0,0:21:35.48,0:21:37.19,Default,,0,0,0,,Спів - не про вміння співати, а про щирість та чисте серце!
+Dialogue: 0,0:21:37.73,0:21:39.11,Default,,0,0,0,,Ну-ну, серце?
+Dialogue: 0,0:21:45.57,0:21:46.36,Default,,0,0,0,,Сніжить.
+Dialogue: 0,0:21:47.20,0:21:51.03,Default,,0,0,0,,Сніг на Різдво! Яка романтика!
+Dialogue: 0,0:21:53.45,0:21:54.00,Default,,0,0,0,,Так.
+Dialogue: 0,0:21:55.21,0:21:58.00,Default,,0,0,0,,Вайт Крісмас.
+Dialogue: 0,0:21:58.71,0:22:01.29,Default,,0,0,0,,А Ви що тут робите?!
 Dialogue: 0,0:22:07.72,0:22:10.41,AzumangaED,,0,0,0,,{\blur1}kokoro ni hane wo motte\NWith wings upon your soul,
 Dialogue: 0,0:22:11.90,0:22:15.39,AzumangaED,,0,0,0,,{\blur1}tsutaete mune no sasayaki\NConvey the whispers of your heart.
 Dialogue: 0,0:22:16.32,0:22:19.08,AzumangaED,,0,0,0,,{\blur1}ima, kaze ni notte\NNow, riding the wind,
@@ -466,17 +464,17 @@ Dialogue: 0,0:23:21.77,0:23:25.62,AzumangaED,,0,0,0,,{\blur1}Raspberry heaven, I
 Dialogue: 0,0:23:25.62,0:23:30.19,AzumangaED,,0,0,0,,{\blur1}rakuen no hana saita hi ni\NOn the day the flowers in paradise bloom,
 Dialogue: 0,0:23:30.19,0:23:32.22,AzumangaED,,0,0,0,,{\blur1}kimi to futari...\NYou and I...
 Dialogue: 0,0:23:32.69,0:23:36.86,AzumangaED,,0,0,0,,{\blur1}futari de aimashou\NLet's meet, just the two of us.
-Dialogue: 0,0:23:39.39,0:23:42.35,Bubble,,0,0,0,,{\pos(1112.36,216)}Next
-Dialogue: 0,0:23:39.39,0:23:42.35,Bubble,,0,0,0,,{\pos(1114.382,434.25)}Azumanga\NDaioh
-Dialogue: 0,0:23:43.23,0:23:44.90,Default,,0,0,0,,Hokkaido sure is nice, you know?
-Dialogue: 0,0:23:44.90,0:23:47.23,Default,,0,0,0,,The food there is good and you get to ski too.
-Dialogue: 0,0:23:47.23,0:23:47.94,Default,,0,0,0,,I went there.
-Dialogue: 0,0:23:47.94,0:23:50.24,Default,,0,0,0,,They've got bears and hot springs!
-Dialogue: 0,0:23:50.24,0:23:52.24,Default,,0,0,0,,It's like the entire city is the great outdoors!
-Dialogue: 0,0:23:52.45,0:23:54.45,Default,,0,0,0,,I went to Hokkaido.
-Dialogue: 0,0:23:54.45,0:23:57.20,Default,,0,0,0,,What?! Behind my back?! When?!
-Dialogue: 0,0:23:57.20,0:23:59.02,Default,,0,0,0,,I also had crab.
-Dialogue: 0,0:23:59.02,0:24:00.16,Default,,0,0,0,,Crab?!
-Dialogue: 0,0:24:00.16,0:24:01.50,Default,,0,0,0,,Is it crabs next week?!
-Dialogue: 0,0:24:01.50,0:24:02.92,Default,,0,0,0,,Will we get to eat crab?!
-Dialogue: 0,0:24:02.92,0:24:05.34,Default,,0,0,0,,You won't get to eat crab, but don't miss it, okay?
+Dialogue: 0,0:23:39.39,0:23:42.35,Bubble,,0,0,0,,{\pos(1112.36,216)}Далі у
+Dialogue: 0,0:23:39.39,0:23:42.35,Bubble,,0,0,0,,{\pos(1114.382,434.25)}Адзуманґа\NДайо
+Dialogue: 0,0:23:43.23,0:23:44.90,Default,,0,0,0,,В Хоккайдо дуже добре, знаєш?
+Dialogue: 0,0:23:44.90,0:23:47.23,Default,,0,0,0,,Їжа хороша, ще й на лижах покататися можна.
+Dialogue: 0,0:23:47.23,0:23:47.94,Default,,0,0,0,,Я була там.
+Dialogue: 0,0:23:47.94,0:23:50.24,Default,,0,0,0,,Там є ведмеді та гарячі джерела!
+Dialogue: 0,0:23:50.24,0:23:52.24,Default,,0,0,0,,Ціле місто, як зона для відпочинку!
+Dialogue: 0,0:23:52.45,0:23:54.45,Default,,0,0,0,,Я була в Хоккайдо.
+Dialogue: 0,0:23:54.45,0:23:57.20,Default,,0,0,0,,Що?! За моєю спиною?! Коли?!
+Dialogue: 0,0:23:57.20,0:23:59.02,Default,,0,0,0,,І краба їла.
+Dialogue: 0,0:23:59.02,0:24:00.16,Default,,0,0,0,,Краба?!
+Dialogue: 0,0:24:00.16,0:24:01.50,Default,,0,0,0,,Будуть краби наступного тижня?!
+Dialogue: 0,0:24:01.50,0:24:02.92,Default,,0,0,0,,Їстимемо крабів?!
+Dialogue: 0,0:24:02.92,0:24:05.34,Default,,0,0,0,,Краба ти не їстимеш, але не пропускай, добре?
